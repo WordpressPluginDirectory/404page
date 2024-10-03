@@ -1,10 +1,10 @@
 === Smart Custom 404 Error Page ===
-Contributors: nerdpressteam, petersplugins
-Tags: custom error page, custom 404, custom 404 page, customize 404, customize 404 page
+Contributors: nerdpressteam, petersplugins, jchristopher
+Tags: 404, 404 page, custom 404, not found, 404 error
 Author: NerdPress
 Author URI: https://www.nerdpress.net
 Tested up to: 6.6
-Stable tag: 11.4.7
+Stable tag: 11.4.8
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ Create a custom 404 error page the easy way! No coding, and no redirects.
 
 == Description ==
 
-Bringing visitors to your website takes time and effort. Every visitor is important. The default 404 error page of most themes do not provide any information on what to find on your site. A first-time visitor, who does not know you, is left in a dead end and leaves your website. Set up a helpful custom 404 error page to keep them on your site!
+Bringing visitors to your website takes time and effort. Every visitor is important. The default 404 error page of most themes does not provide any information on what to find on your site. A first-time visitor, who does not know you, is left in a dead end and leaves your website. Set up a helpful custom 404 error page to keep them on your site!
 
 This handy plugin allows you to easily create your own 404 error page without any effort and it works with almost every theme.
 
@@ -86,6 +86,9 @@ The Plugin provides the following functions:
 If you are a theme developer you can add native support for the 404page plugin to your theme for full control.
 
 == Changelog ==
+
+= 11.4.8 (2024-10-02) =
+* Address potential XSS vulnerability. Thanks to Webbernaut for responsible disclosure.
 
 = 11.4.7 (2024-09-16) OUT OF RETIREMENT! =
 * NerdPress has adopted Smart Custom 404 Page! [Read the announcement here.](https://www.nerdpress.net/announcing-404-page/)

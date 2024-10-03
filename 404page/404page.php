@@ -2,7 +2,7 @@
 /*
  * Plugin Name: Smart Custom 404 Error Page
  * Description: Custom 404 the easy way! Set any page as a custom 404 error page -- no coding needed. <a href="https://www.nerdpress.net/announcing-404-page/">Now managed by NerdPress!</a>
- * Version: 11.4.7
+ * Version: 11.4.8
  * Requires at least: 4.0
  * Requires PHP: 5.4 
  * Author: NerdPress
